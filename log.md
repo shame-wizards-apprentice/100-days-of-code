@@ -12,6 +12,7 @@
 
 [W&W](https://wizards-and-whiteboards.herokuapp.com/)
 
+=========================================================================================
 
 ### Day 2: March 22nd, 2021
 
@@ -25,7 +26,9 @@
 
 [Portfolio](https://shame-wizards-apprentice.github.io/final-portfolio/)
 
-### Day 2: March 23rd, 2021
+=========================================================================================
+
+### Day 3: March 23rd, 2021
 
 **Today's Progress**: First pitch meeting with a real actual potential client!! Fixed MongoDB issues in W&W and finally got the health validation to work, so now it can't go below 0. Wrestled with Redux the rest of the afternoon, still can't get the keys component to refresh when the health state goes to zero. Back at it tomorrow!
 
@@ -43,7 +46,9 @@
 
 [Interviewcake](https://www.interviewcake.com/)
 
-### Day 1: March 24th, 2021
+=========================================================================================
+
+### Day 4: March 24th, 2021
 
 **Today's Progress**: Reviewed sorting algorithms and big O notation, spent most of the day preparing for my interview tomorrow. That counts, right?
 
