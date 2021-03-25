@@ -32,8 +32,23 @@
 **Thoughts:** Further study is needed with Redux. It's very useful, but every time I try to do something new with it, I find myself spending six hours googling it. The meeting went really well, though. He seemed into our ideas, and really seemed to listen and take in what we were saying about Wordpress not working for his particular website. Got some cool new interview prep resources I'll definitely look into tomorrow!
 
 **Link(s) to work:** 
+
 [Pitch](https://docs.google.com/presentation/d/10x-gLRGuInrshsLlCgOd9WCifRt3f0jCdDSjIoE-A4U/edit?usp=sharing)
+
 [W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
 [Companies that hire without whiteboarding](https://github.com/poteto/hiring-without-whiteboards)
+
 [Mock interview practice](https://www.pramp.com/#/)
+
 [Interviewcake](https://www.interviewcake.com/)
+
+### Day 1: March 24th, 2021
+
+**Today's Progress**: Reviewed sorting algorithms and big O notation, spent most of the day preparing for my interview tomorrow. That counts, right?
+
+**Thoughts:** I'm really excited to talk to this company. Their mission is awesome, and it would be really cool for my first job to be something I actually believe in, and not. Y'know. Amazon. 
+
+**Link(s) to work:** 
+
+N/A
