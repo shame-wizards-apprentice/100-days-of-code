@@ -57,3 +57,15 @@
 **Link(s) to work:** 
 
 N/A
+
+=========================================================================================
+
+### Day 5: March 25th, 2021
+
+**Today's Progress**: Finally solved the health rendering issues in W&W! All we needed was a simple useEffect hook. The interview with Hello Alice was awesome! They seem really cool. Fingers crossed for a tech interview! Also, Robert asked Hannah and I about some additional international customer pages for his website, so he seems to really be considering us.
+
+**Thoughts:** The RPG issues took an embarrassingly long time to figure out, so hopefully we make more progress when we're all together tomorrow. Really excited about the interview, and super hopeful Robert decides to go ahead with our freelance project!
+
+**Link(s) to work:**
+
+[W&W](https://wizards-and-whiteboards.herokuapp.com/)
