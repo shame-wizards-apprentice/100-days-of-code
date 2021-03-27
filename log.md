@@ -69,3 +69,15 @@ N/A
 **Link(s) to work:**
 
 [W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
+=========================================================================================
+
+### Day 6: March 26th, 2021
+
+**Today's Progress**: Figured out why the level wasn't resetting properly in W&W, then managed to do a major refactor on the code editor component to get rid of the 2nd API call and reduce a 60-something line function down to 20 counting comments.
+
+**Thoughts:** I LOVE REDUX. That is all.
+
+**Link(s) to work:**
+
+[W&W](https://wizards-and-whiteboards.herokuapp.com/)
