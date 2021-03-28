@@ -81,3 +81,29 @@ N/A
 **Link(s) to work:**
 
 [W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
+=========================================================================================
+
+### Day 7: March 27th, 2021
+
+**Today's Progress**: Not much. Got the W&W modals to pop up over the game world instead of underneath it for reduced scrolling time (still need to fix mobile view).
+
+**Thoughts:** I hate CSS. I hate CSS. I hate CSS.
+
+**Link(s) to work:**
+
+[W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
+=========================================================================================
+
+### Day 7: March 27th, 2021
+
+**Today's Progress**: Finally got around to making my portfolio mobile responsive (it even looks good on a stupid iPhone 5), then played around with Hammer.js and learned about tap events for mobile-responsiveness on W&W.
+
+**Thoughts:** I have no clue why Hammer.js won't work. The only thing I can think of is that it isn't being maintained, so it's incompatable with newer versions of React (since every successful example I've seen is with version 16.8)? Touch events behaved very weirdly, further study is needed. Good thing we have the dpad!
+
+**Link(s) to work:**
+
+[W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
+[Portfolio](https://shame-wizards-apprentice.github.io/final-portfolio/)
