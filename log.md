@@ -96,7 +96,7 @@ N/A
 
 =========================================================================================
 
-### Day 7: March 27th, 2021
+### Day 8: March 28th, 2021
 
 **Today's Progress**: Finally got around to making my portfolio mobile responsive (it even looks good on a stupid iPhone 5), then played around with Hammer.js and learned about tap events for mobile-responsiveness on W&W.
 
@@ -107,3 +107,15 @@ N/A
 [W&W](https://wizards-and-whiteboards.herokuapp.com/)
 
 [Portfolio](https://shame-wizards-apprentice.github.io/final-portfolio/)
+
+=========================================================================================
+
+### Day 9: March 29th, 2021
+
+**Today's Progress**: Finalized (and fixed a bunch of stuff) in Wizards and Whiteboards for demo day tomorrow!
+
+**Thoughts:** It is EXTREMELY difficult to make a page mobile-responsive without a CSS framework. Thank god for the heroes who maintain them!
+
+**Link(s) to work:**
+
+[W&W](https://wizards-and-whiteboards.herokuapp.com/)
