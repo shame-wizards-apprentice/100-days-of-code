@@ -119,3 +119,41 @@ N/A
 **Link(s) to work:**
 
 [W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
+=========================================================================================
+
+### Day 10: March 30th, 2021
+
+**Today's Progress**: Presented at Demo Day! Also, solved the issue with users logging in and being able to get more than one salmon from the same NPC (though we decided to not tempt fate by deploying it just yet). For now it's stored in local storage, but ultimately we should really update the user schema in the databse to match our Redux state.
+
+**Thoughts:** Demo Day was a lot of fun! It was awesome to have a game developer stop by our table and check out our app. Everyone said the idea was great and the game moved really smoothly, which was awesome to hear. We got a lot of advice to expand it to teach multiple subjects and/or multiple programming languages, so that's something to look forward to--possibly. I think I'm ready to work on other stuff for a while. 
+
+**Link(s) to work:**
+
+[W&W](https://wizards-and-whiteboards.herokuapp.com/)
+
+=========================================================================================
+
+### Day 11: March 31st, 2021
+
+**Today's Progress**: Not much actual coding today, just planning and brainstorming for my Seattle Underground Tour game idea. 
+
+**Thoughts:** Super excited to start working on another project! I think I really enjoy game development, so maybe I should look into that.
+
+**Link(s) to work:**
+
+Nada
+
+=========================================================================================
+
+### Day 12: April 1st, 2021
+
+**Today's Progress**: (roughly) wireframed the main game world and the landing page for the underground game. Troll game? I'm calling it the Troll game from now on. Also put together a mood board for Dan, and asked Emily to help with story development. 
+
+**Thoughts:** This project could be really exciting! I'm sort of torn between leaning into the story aspect (and therefore definitely using React and Redux) and trying out a real game engine. I do really want to get more practice with React and Redux, so maybe save the game engine for the next one?
+
+**Link(s) to work:**
+
+[Wireframes](https://excalidraw.com/#json=4691681270038528,nga5CUYnb_CS6vihdVzZsg)
+
+[Moodboard](https://miro.com/welcomeonboard/ar5Hh3zR9tzWVnEsV0QeO5bRlT1GnCUIEE716xo3ZEZ12nWKevH8LvfjvBEDVpeb)
