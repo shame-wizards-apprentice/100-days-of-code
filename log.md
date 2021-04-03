@@ -157,3 +157,15 @@ Nada
 [Wireframes](https://excalidraw.com/#json=4691681270038528,nga5CUYnb_CS6vihdVzZsg)
 
 [Moodboard](https://miro.com/welcomeonboard/ar5Hh3zR9tzWVnEsV0QeO5bRlT1GnCUIEE716xo3ZEZ12nWKevH8LvfjvBEDVpeb)
+
+=========================================================================================
+
+### Day 13: April 2nd, 2021
+
+**Today's Progress**: Built (most of) an API for a very simple job app tracker, then spent the rest of the day trying to write a Python script to parse XML to JSON. 
+
+**Thoughts:** I've decided to build a small-scale MERN-stack app roughly every week while I work on larger projects and explore new technologies. Apparently, parsing XML to JSON in Python is impossbile without installing a third-party library. Apparently, so is writing a Python script to parse XML into JSON when you don't know Python. Sigh. 
+
+**Link(s) to work:**
+
+[Job Application Tracker](https://github.com/shame-wizards-apprentice/app-tracker-api)
