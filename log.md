@@ -169,3 +169,27 @@ Nada
 **Link(s) to work:**
 
 [Job Application Tracker](https://github.com/shame-wizards-apprentice/app-tracker-api)
+
+=========================================================================================
+
+### Day 14: April 3rd, 2021
+
+**Today's Progress**: None to speak of
+
+**Thoughts:** I got distracted by biscuits and gravy, and then it was time to leave for grandma's house. Today's date is 4/3/21 though, so we can't call it a total loss.
+
+**Link(s) to work:**
+
+Nah man
+
+=========================================================================================
+
+### Day 15: April 4th, 2021
+
+**Today's Progress**: Wireframed a portfolio site for Moy and set a meeting to talk details, then finished my application tracker API. Planning to deploy tomorrow.
+
+**Thoughts:** It's amazing how much better you get at finding silly errors quickly just from familiarity with the material. I make plenty of them, but they don't take a million years to debug anymore.
+
+**Link(s) to work:**
+
+[Job Application Tracker](https://github.com/shame-wizards-apprentice/app-tracker-api)
