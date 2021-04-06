@@ -193,3 +193,17 @@ Nah man
 **Link(s) to work:**
 
 [Job Application Tracker](https://github.com/shame-wizards-apprentice/app-tracker-api)
+
+=========================================================================================
+
+### Day 16: April 5th, 2021
+
+**Today's Progress**: Solved that silly JWT error, found some great articles about REST API best practices, and updated this week's API accordingly before deployment. Started adding the front-end layer using React and Material UI--got the pages and routing set up, then ran into a mysterious database error that derailed progress for the rest of the afternoon.
+
+**Thoughts:** Heroku had its usual tantrum when I tried to deploy the API today, but I was able to solve it on my own in less than 20 minutes! That felt great, especially since Heroku and I have never seen eye to eye. Material UI seems SO cool, I'm super excited to dig in more tomorrow!
+
+**Link(s) to work:**
+
+[API](https://github.com/shame-wizards-apprentice/app-tracker-api)
+
+[Front End](https://github.com/shame-wizards-apprentice/app-tracker)
