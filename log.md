@@ -207,3 +207,17 @@ Nah man
 [API](https://github.com/shame-wizards-apprentice/app-tracker-api)
 
 [Front End](https://github.com/shame-wizards-apprentice/app-tracker)
+
+=========================================================================================
+
+### Day 17: April 6th, 2021
+
+**Today's Progress**: Got the signup form working on the application tracker, and added more specific error handling on the back end to help with debugging. 
+
+**Thoughts:** I'm getting SO much faster at figuring out where my silly errors are that break the app. Not necessarily making fewer of them, but they now take a few minutes to fix on my own rather than a few hours with outside help. 
+
+**Link(s) to work:**
+
+[API](https://github.com/shame-wizards-apprentice/app-tracker-api)
+
+[Front End](https://github.com/shame-wizards-apprentice/app-tracker)
