@@ -221,3 +221,69 @@ Nah man
 [API](https://github.com/shame-wizards-apprentice/app-tracker-api)
 
 [Front End](https://github.com/shame-wizards-apprentice/app-tracker)
+
+=========================================================================================
+
+### Day 18: April 7th, 2021
+
+**Today's Progress**: Added Redux to job application tracker front-end. 
+
+**Thoughts:** Man, don't ask me. I've got to get better at updating this every day. 
+
+**Link(s) to work:**
+
+[API](https://github.com/shame-wizards-apprentice/app-tracker-api)
+
+[Front End](https://github.com/shame-wizards-apprentice/app-tracker)
+
+=========================================================================================
+
+### Day 19: April 8th, 2021
+
+**Today's Progress**: Started building the API for the Seattle game
+
+**Thoughts:** I hope my JSON string trick works with Redux state on the front end, will test in the next few days!
+
+**Link(s) to work:**
+
+[API](https://github.com/shame-wizards-apprentice/seattle-tales-API)
+
+=========================================================================================
+
+### Day 20: April 9th, 2021
+
+**Today's Progress**: Finished the Seattle game API, not much to report.
+
+**Thoughts:** I hope my JSON string trick works with Redux state on the front end, will test in the next few days!
+
+**Link(s) to work:**
+
+[API](https://github.com/shame-wizards-apprentice/seattle-tales-API)
+
+=========================================================================================
+
+### Day 21: April 14th, 2021
+
+**Today's Progress**: Got knocked out for a few days by the Grandma stuff, but I'm back! Finished the JavaScript Fundamentals course on freeCodeCamp and got most of the way through the ES6 course, plus a bunch of algorithms from the class repo. 
+
+**Thoughts:** Algorithms are easier than I expected. Which is not to say they're easy. Just not as bad as I expected.
+
+**Link(s) to work:**
+
+[FreeCodeCamp progress](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+=========================================================================================
+
+### Day 22: April 15th, 2021
+
+**Today's Progress**: Solved a few more class repo problems, created the front-end repo for the Seattle game, and now to finish the ES6 module on freeCodeCamp!
+
+**Thoughts:** It was great to work collaboratively again. I'm much more motivated when I'm working in a group of people.
+
+**Link(s) to work:**
+
+[FreeCodeCamp progress](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+[Seattle Game](https://github.com/shame-wizards-apprentice/seattle-tales)
+
+
