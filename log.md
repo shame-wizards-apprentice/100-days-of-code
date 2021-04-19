@@ -286,4 +286,17 @@ Nah man
 
 [Seattle Game](https://github.com/shame-wizards-apprentice/seattle-tales)
 
+=========================================================================================
+
+### Day 23: April 16th, 2021
+
+**Today's Progress**: More freeCodeCamp, not much else to report.
+
+**Thoughts:** Did I say I was going to be better about updating this every day? Yes. I did certainly say that.
+
+**Link(s) to work:**
+
+[FreeCodeCamp progress](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+
 
