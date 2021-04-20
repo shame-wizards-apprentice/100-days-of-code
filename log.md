@@ -310,5 +310,14 @@ Nah man
 
 [FreeCodeCamp progress](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+=========================================================================================
+
+### Day 25: April 18th, 2021
+
+**Today's Progress**: Met with Moy about his portfolio, created the repo and got to work with Material UI. 
+
+**Thoughts:** It'll be interesting to build the front-end of a project first, since it's the opposite of my usual MO. Also, I can tell Material UI is very cool and I can also definitely tell I'm not using it to the best of its capabilities.
+
+
 
 
