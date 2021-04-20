@@ -298,5 +298,17 @@ Nah man
 
 [FreeCodeCamp progress](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
+=========================================================================================
+
+### Day 24: April 17th, 2021
+
+**Today's Progress**: Finished a few more freeCodeCamp modules. 
+
+**Thoughts:** I think? I really super duper promise to update this often enough that I can remember what I did.
+
+**Link(s) to work:**
+
+[FreeCodeCamp progress](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
 
 
