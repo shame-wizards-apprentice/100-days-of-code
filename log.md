@@ -318,6 +318,10 @@ Nah man
 
 **Thoughts:** It'll be interesting to build the front-end of a project first, since it's the opposite of my usual MO. Also, I can tell Material UI is very cool and I can also definitely tell I'm not using it to the best of its capabilities.
 
+**Link(s) to work:**
+
+[The Moypocalypse](https://github.com/shame-wizards-apprentice/the-moypocalypse)
+
 =========================================================================================
 
 ### Day 26: April 19th, 2021
@@ -325,5 +329,9 @@ Nah man
 **Today's Progress**: Hammered out more details for the Emerald Marine Products site, got an okay-looking homepage and some functioning reusable components built on Moy's portfolio. 
 
 **Thoughts:** I'm really excited to work on real projects for actual clients! And to collaborate again. Coding by yourself is lonely.
+
+**Link(s) to work:**
+
+[The Moypocalypse](https://github.com/shame-wizards-apprentice/the-moypocalypse)
 
 
